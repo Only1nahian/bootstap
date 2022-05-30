@@ -1,0 +1,129 @@
+/* 1400 xxl 1200 xl 952px lg 768 md 576 sm 575 xsm  */
+
+@media(max-width: 1399px) {
+    .banner_coustom h1 {
+        color: #402823;
+        font-size: 53px;
+        font-weight: 600;
+        font-family: 'Oswald', sans-serif;
+    }
+}
+
+.banner_coustom {
+    padding-bottom: 60px;
+}
+
+.image_bar img {
+    width: 260px;
+}
+}
+
+@media(max-width: 1199px) {
+
+    .bannerimage-sec img {
+        padding-left: 25px;
+        padding-top: 50px;
+    }
+
+    .bannerContaint-sec {
+        padding-left: 17px;
+    }
+
+    .about_us p {
+        font-size: 21px;
+        max-width: 200px;
+        text-align: justify;
+    }
+
+    .subscribe-sec {
+        padding: 0px 100px 100px;
+    }
+
+    .information-sec {
+        padding: 20px 100px 30px;
+    }
+
+    .bannerimage-sec {
+        padding: 0px;
+    }
+
+    .banner_coustom h1 {
+        font-size: 46px;
+        font-weight: 900;
+    }
+}
+
+@media(max-width: 951px) {
+    .bannerimage-sec img {
+        padding-left: 25px;
+        padding-top: 50px;
+    }
+
+    .bannerContaint-sec {
+        padding-left: 17px;
+    }
+
+    .about_us p {
+        font-size: 21px;
+        max-width: 200px;
+        text-align: justify;
+    }
+
+    .subscribe-sec {
+        padding: 0px 100px 100px;
+    }
+
+    .information-sec {
+        padding: 100px 100px 30px;
+    }
+
+    .bannerimage-sec {
+        padding: 0px;
+    }
+
+    .banner_coustom h1 {
+        font-size: 46px;
+        font-weight: 900;
+    }
+}
+
+@media(max-width: 766px) {
+    .bannerimage-sec img {
+        padding-left: 0px;
+        padding-top: 50px;
+    }
+
+    .bannerContaint-sec {
+        padding-left: 17px;
+    }
+
+    .about_us p {
+        font-size: 21px;
+        max-width: 200px;
+        text-align: justify;
+    }
+
+    .subscribe-sec {
+        padding: 0px 100px 100px;
+    }
+
+    .information-sec {
+        padding: 20px 100px 30px;
+    }
+
+    .bannerimage-sec {
+        padding: 0px;
+    }
+
+    .banner_coustom h1 {
+        font-size: 34px;
+        font-weight: 900;
+    }
+
+}
+
+@media(max-width: 575px) {
+    .bannerimage-sec img {
+        padding-left: 0px;
+    }
+}

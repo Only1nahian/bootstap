@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+/*  
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+ */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 0px !important;
+
+}
+
+/* header section start */
+
+header {
+    min-height: 85vh;
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.navbar {
+    /* background-color: #01a49a; */
+}
+
+
+.navbar-nav li a {
+    color: rgb(52, 29, 15) !important;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 2px;
+
+}
+
+.banner_coustom {
+    margin-top: 200px;
+}
+
+.banner_coustom h1 {
+    color: #402823;
+    font-size: 66px;
+    font-weight: 900;
+    font-family: 'Oswald', sans-serif;
+}
+
+.banner_coustom p {
+    color: #402823;
+    font-size: 20px;
+    margin-bottom: 38px;
+}
+
+.banner_coustom a {
+    color: #341e10;
+    background-color: #b3ab95;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 10px 35px;
+    font-weight: 900;
+    border-radius: 10px;
+}
+
+/* header section end */
+
+
+
+
+
+
+
+/* product bar start */
+
+.product_section {
+    padding: 50px 40px 80px 40px;
+}
+
+.product_bar h1 {
+    color: #803c25;
+    font-size: 65px;
+    font-weight: 900;
+    font-family: 'Oswald', sans-serif;
+}
+
+.product_bar p {
+    font-size: 30px;
+    color: #803c25;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+}
+
+.image_bar {}
+
+.image_bar h1 {
+    padding: 30px 0 20px 0;
+    font-size: 29px;
+    font-family: 'Oswald', sans-serif;
+    color: #803c25;
+}
+
+.image_bar a {
+    background-color: #e80060;
+    color: white;
+    text-decoration: none;
+    padding: 10px 25px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 3px;
+}
+
+.image_bar img {}
+
+
+.pink a {
+    background-color: #01a49a;
+}
+
+.red a {
+    background-color: #ab593e;
+}
+
+/* product bar end */
+
+
+
+
+
+
+
+
+/* third bar start */
+
+.bg-blue {
+    background-color: #33d2e9;
+}
+
+.bg-blue a {
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    max-width: 200px;
+}
+
+.third_bar img:not(a img) {
+    height: 400px;
+    object-fit: cover;
+}
+
+.bg-blue a img {
+    display: block;
+    margin: auto;
+    width: 60px;
+}
+
+/* thierd bar end */
+
+
+
+
+
+
+
+/* banner bar start */
+.bannerContaint-sec {
+    padding-left: 70px;
+}
+
+.banner-bar {
+    margin: 80px 20px 20px 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.bannerimage-sec {}
+
+.bannerimage-sec img {
+    padding-left: 20px;
+}
+
+.bannerContaint-sec h1 {
+    color: #402823;
+    font-weight: 900;
+    font-size: 58px;
+}
+
+.bannerContaint-sec h4 {
+    font-weight: 300;
+    margin: 20px 0;
+}
+
+.bannerContaint-sec p {
+    font-size: 29px;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.bannerContaint-sec img {
+    margin-bottom: 30px;
+}
+
+.bannerContaint-sec a {
+    display: table;
+    text-decoration: none;
+    background-color: #e30462;
+    color: white;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+/* banner bar end */
+
+
+
+
+
+
+
+
+/* Contuct us bar start */
+.contuct-us {
+    background-color: #e7c6d3;
+    padding-bottom: 20px;
+}
+
+.contuct-sec {
+    padding: 100px 0px 49px 100px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.logu img {
+    margin-bottom: 15px;
+}
+
+.about_us h3 {
+    font-weight: 900;
+    color: #402823;
+    margin-top: 15px;
+}
+
+.about_us p {
+    font-size: 15px;
+}
+
+.contuct h3 {
+    font-weight: 900;
+    color: #402823;
+    margin-top: 15px;
+}
+
+.contuct h3 {
+    font-weight: 900;
+    color: #402823;
+    margin-top: 15px;
+}
+
+.contuct p {
+    margin-bottom: 0px;
+}
+
+.contuct img {
+    margin-right: 12px;
+}
+
+
+
+.information-sec {
+    padding: 100px 0px 49px 100px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.information-sec h3 {
+    font-weight: 900;
+    color: #402823;
+    font-size: 30px;
+}
+
+.information-sec a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    margin: 15px 0px;
+}
+
+.information-sec a:hover {
+    color: blue;
+}
+
+.subscribe-sec {
+    padding: 100px 0px 49px 100px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.subscribe-sec h3 {
+    font-size: 30px;
+    margin-top: 80px;
+}
+
+.subscribe-sec p {
+    margin: 30px 0px;
+    font-size: 20px;
+}
+
+.subscribe-sec a {
+    background-color: #812d2d;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 7px 26px;
+    text-transform: lowercase;
+    border-radius: 5px;
+}
+
+.copyWrite h4 {
+    text-align: center;
+    color: #270505;
+}
